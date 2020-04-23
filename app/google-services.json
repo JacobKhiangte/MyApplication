@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "724650915839",
+    "firebase_url": "https://thingremapp-92a81.firebaseio.com",
+    "project_id": "thingremapp-92a81",
+    "storage_bucket": "thingremapp-92a81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724650915839:android:4eddc1c7534eae723059ca",
+        "android_client_info": {
+          "package_name": "com.thingrem.adforest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724650915839-9khe4tv3qttvdq8qg4i5olfhsp1gc6vu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thingrem.adforest",
+            "certificate_hash": "23d451a174ef27300567b68b09df3a5e11668620"
+          }
+        },
+        {
+          "client_id": "724650915839-knkrrnvdro6lfnd4fdt11u9ml13gipmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVGtfpM1cNkuJoPSx2mtV_M9M0O-WVgKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724650915839-knkrrnvdro6lfnd4fdt11u9ml13gipmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
